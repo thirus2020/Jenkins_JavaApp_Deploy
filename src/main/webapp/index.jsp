@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2><%= "Deploy a Java Web App to Remote Tomcat Using Jenkins and Maven | AWS EC2 Setup" %></h2>
-<h1 style="color: rebeccapurple;">By Thirumurugan S ~ CloudOps ~ Project Auto trigger</h1>
+<h1 style="color: rebeccapurple;">By Thirumurugan S ~ CloudOps ~ Project Auto trigger2</h1>
 </body>
 </html>
